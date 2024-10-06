@@ -95,8 +95,7 @@ https://github.com/user-attachments/assets/d4bc3e2d-259e-427f-b73a-90ecb22e1bff
 Clone the repository:
 ```bash
 git clone https://github.com/isharadilshanra/YOLOv10-Elevator-Button-Detection.git
----
----
+
 ## Future Work
 
 - Improve accuracy on buttons with varying lighting conditions
