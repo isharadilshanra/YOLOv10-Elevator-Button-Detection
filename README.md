@@ -84,8 +84,8 @@ Below are some results from testing the model:
 
 Watch the video demonstration below, where the robot navigates in the elevator and successfully identifies different elevator buttons in real-time.
 
-[(![thumb-videio](https://github.com/user-attachments/assets/568fd268-b636-4d02-b4aa-ba656bea0b1f)
-)](
+![thumb-videio](https://github.com/user-attachments/assets/568fd268-b636-4d02-b4aa-ba656bea0b1f)
+(
 
 https://github.com/user-attachments/assets/d4bc3e2d-259e-427f-b73a-90ecb22e1bff
 
