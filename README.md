@@ -103,6 +103,3 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/isharadilshanra/YOLOv10-Elevator-Button-Detection.git
-
-
-
