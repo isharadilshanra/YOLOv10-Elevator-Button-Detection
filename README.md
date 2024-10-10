@@ -95,7 +95,7 @@ https://github.com/user-attachments/assets/d4bc3e2d-259e-427f-b73a-90ecb22e1bff
 - Improve accuracy on buttons with varying lighting conditions
 - Extend to other elevator types
 - Enable real-time detections with edge devices
-
+- Add high-quality images to the dataset for the floor number class, along with custom annotations for detecting floor numbers
 
 ## How to Use
 
