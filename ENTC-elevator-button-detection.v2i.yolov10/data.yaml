@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['alarm', 'button-1', 'button-2', 'button-3', 'button-down', 'button-g', 'button-up', 'close', 'closed-door', 'down', 'floor-1', 'floor-2', 'floor-3', 'floor-ground', 'key', 'open', 'up']
+
+roboflow:
+  workspace: murge-data
+  project: entc-elevator-button-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/murge-data/entc-elevator-button-detection/dataset/2
